@@ -1,0 +1,35 @@
+[33mcommit 5ec2277c665f048f2c7a6eb461c712cd6b42ba38[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: hassanradi93 <hassan93radi@gmail.com>
+Date:   Thu May 16 20:34:42 2019 +0300
+
+    able to create post with static category
+
+[33mcommit e550ccd2e77c95f3f6078d5f2709291f9fc5d6d7[m
+Author: hassanradi93 <hassan93radi@gmail.com>
+Date:   Fri May 10 21:39:08 2019 +0300
+
+    users section working 100 percent - except security
+
+[33mcommit c5823b75de22876706b0a0ca1a58420001bf6257[m
+Author: hassanradi93 <hassan93radi@gmail.com>
+Date:   Thu May 9 23:16:02 2019 +0300
+
+    users with uploading features working
+
+[33mcommit cdd00993a603bba5a7bb2cae99a4270c14656b87[m
+Author: hassanradi93 <hassan93radi@gmail.com>
+Date:   Wed May 8 22:30:22 2019 +0300
+
+    Users page working without photos
+
+[33mcommit cd8d4f2ff30272ea2acaa56b661e88b85fe15c32[m
+Author: hassanradi93 <hassan93radi@gmail.com>
+Date:   Mon May 6 23:10:25 2019 +0300
+
+    admin master page setup
+
+[33mcommit 3430e474f8ff3303dfb0257abc2718ecaeb36e9e[m
+Author: hassanradi93 <hassan93radi@gmail.com>
+Date:   Fri May 3 19:43:31 2019 +0300
+
+    my first comming -admin vews created
